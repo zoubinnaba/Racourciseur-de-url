@@ -27,7 +27,11 @@
     		border-radius: 3px;
     	}
     	input[type=submit]{
-
+           border: none;
+           border-radius: 2px;
+           width: 20%;
+           padding: 1em 0.5em;
+           font-weight: bold; 
     	}
     	a{
     		color: #ccc;
